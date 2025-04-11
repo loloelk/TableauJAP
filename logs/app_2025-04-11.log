@@ -1,0 +1,1167 @@
+2025-04-11 08:51:54,611 - root - INFO - Application started
+2025-04-11 08:51:57,060 - root - INFO - Application started
+2025-04-11 08:51:59,271 - root - INFO - Application started
+2025-04-11 08:51:59,342 - root - INFO - Application started
+2025-04-11 08:51:59,404 - root - INFO - Application started
+2025-04-11 08:51:59,412 - root - INFO - Running database initialization check...
+2025-04-11 08:51:59,413 - root - INFO - Initializing database...
+2025-04-11 08:51:59,416 - root - INFO - Table 'nurse_inputs' checked/created.
+2025-04-11 08:51:59,418 - root - INFO - Added column 'eps' to table 'side_effects'.
+2025-04-11 08:51:59,419 - root - INFO - Added column 'akathisia' to table 'side_effects'.
+2025-04-11 08:51:59,420 - root - INFO - Added column 'weight_gain' to table 'side_effects'.
+2025-04-11 08:51:59,421 - root - INFO - Added column 'metabolic_changes' to table 'side_effects'.
+2025-04-11 08:51:59,422 - root - INFO - Added column 'sedation' to table 'side_effects'.
+2025-04-11 08:51:59,423 - root - INFO - Added column 'sexual_dysfunction' to table 'side_effects'.
+2025-04-11 08:51:59,423 - root - INFO - Table 'side_effects' checked/created.
+2025-04-11 08:51:59,423 - root - INFO - Table 'patients' checked/created.
+2025-04-11 08:51:59,423 - root - INFO - Database initialization complete.
+2025-04-11 08:51:59,423 - root - INFO - Database initialization check complete.
+2025-04-11 08:51:59,425 - root - INFO - CSS styles loaded.
+2025-04-11 08:51:59,458 - root - INFO - Data loaded successfully.
+2025-04-11 08:51:59,459 - root - INFO - Default patient set: P001
+2025-04-11 09:05:58,209 - root - INFO - Application started
+2025-04-11 09:06:00,558 - root - INFO - Application started
+2025-04-11 09:06:02,938 - root - INFO - Application started
+2025-04-11 09:06:03,074 - root - INFO - Application started
+2025-04-11 09:06:03,139 - root - INFO - Application started
+2025-04-11 09:06:03,153 - root - INFO - Running database initialization check...
+2025-04-11 09:06:03,154 - root - INFO - Initializing database...
+2025-04-11 09:06:03,157 - root - INFO - Table 'nurse_inputs' checked/created.
+2025-04-11 09:06:03,158 - root - INFO - Table 'side_effects' checked/created.
+2025-04-11 09:06:03,159 - root - INFO - Table 'patients' checked/created.
+2025-04-11 09:06:03,159 - root - INFO - Database initialization complete.
+2025-04-11 09:06:03,159 - root - INFO - Database initialization check complete.
+2025-04-11 09:06:03,160 - root - INFO - CSS styles loaded.
+2025-04-11 09:06:03,205 - root - INFO - Data loaded successfully.
+2025-04-11 09:06:03,205 - root - INFO - Default patient set: P001
+2025-04-11 09:06:03,211 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 09:07:31,666 - root - INFO - Application started
+2025-04-11 09:07:31,700 - root - INFO - CSS styles loaded.
+2025-04-11 09:07:32,046 - root - INFO - Application started
+2025-04-11 09:07:32,052 - root - INFO - CSS styles loaded.
+2025-04-11 09:07:32,075 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 09:07:39,088 - root - INFO - Application started
+2025-04-11 09:07:39,096 - root - INFO - CSS styles loaded.
+2025-04-11 09:07:39,337 - root - INFO - Application started
+2025-04-11 09:07:39,360 - root - INFO - CSS styles loaded.
+2025-04-11 09:07:39,363 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 09:07:40,079 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 09:07:40,092 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 09:07:40,096 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 09:08:08,664 - root - INFO - Application started
+2025-04-11 09:08:08,678 - root - INFO - CSS styles loaded.
+2025-04-11 09:08:08,843 - root - INFO - Application started
+2025-04-11 09:08:08,857 - root - INFO - CSS styles loaded.
+2025-04-11 09:08:08,874 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 09:09:09,745 - root - INFO - Application started
+2025-04-11 09:09:09,755 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:10,023 - root - INFO - Application started
+2025-04-11 09:09:10,029 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:10,034 - root - INFO - Routing to page: Parcours Patient
+2025-04-11 09:09:10,073 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 09:09:10,085 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 09:09:10,094 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 09:09:14,522 - root - INFO - Application started
+2025-04-11 09:09:14,541 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:14,698 - root - INFO - Application started
+2025-04-11 09:09:14,702 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:14,705 - root - INFO - Routing to page: Analyse des Protocoles
+2025-04-11 09:09:19,232 - root - INFO - Application started
+2025-04-11 09:09:19,246 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:19,394 - root - INFO - Application started
+2025-04-11 09:09:19,398 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:19,400 - root - INFO - Routing to page: Plan de Soins et Entrées Infirmières
+2025-04-11 09:09:25,046 - root - INFO - Application started
+2025-04-11 09:09:25,060 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:25,234 - root - INFO - Application started
+2025-04-11 09:09:25,249 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:25,251 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 09:09:25,254 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 09:09:25,256 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 09:09:25,257 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 09:09:31,672 - root - INFO - Application started
+2025-04-11 09:09:31,685 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:31,854 - root - INFO - Application started
+2025-04-11 09:09:31,858 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:31,860 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 09:09:32,077 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 09:09:32,079 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 09:09:32,081 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 09:09:52,340 - root - INFO - Application started
+2025-04-11 09:09:52,359 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:52,497 - root - INFO - Application started
+2025-04-11 09:09:52,503 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:52,505 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 09:09:52,746 - root - INFO - Retrieved 7 side effect records from database for patient P003
+2025-04-11 09:09:52,748 - root - INFO - Fetched 4 side effect records from CSV for P003
+2025-04-11 09:09:52,750 - root - INFO - Found side effect data in both database and CSV for P003, using database data
+2025-04-11 09:09:56,891 - root - INFO - Application started
+2025-04-11 09:09:56,898 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:57,106 - root - INFO - Application started
+2025-04-11 09:09:57,110 - root - INFO - CSS styles loaded.
+2025-04-11 09:09:57,114 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 09:09:57,330 - root - INFO - Retrieved 2 side effect records from database for patient P006
+2025-04-11 09:09:57,332 - root - INFO - Fetched 1 side effect records from CSV for P006
+2025-04-11 09:09:57,333 - root - INFO - Found side effect data in both database and CSV for P006, using database data
+2025-04-11 09:10:00,057 - root - INFO - Application started
+2025-04-11 09:10:00,066 - root - INFO - CSS styles loaded.
+2025-04-11 09:10:00,243 - root - INFO - Application started
+2025-04-11 09:10:00,247 - root - INFO - CSS styles loaded.
+2025-04-11 09:10:00,251 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 09:10:00,480 - root - INFO - Retrieved 3 side effect records from database for patient P002
+2025-04-11 09:10:00,482 - root - INFO - Fetched 2 side effect records from CSV for P002
+2025-04-11 09:10:00,483 - root - INFO - Found side effect data in both database and CSV for P002, using database data
+2025-04-11 09:19:09,009 - root - INFO - Application started
+2025-04-11 09:19:11,406 - root - INFO - Application started
+2025-04-11 09:19:13,268 - root - INFO - Application started
+2025-04-11 09:19:15,412 - root - INFO - Application started
+2025-04-11 09:19:15,543 - root - INFO - Application started
+2025-04-11 09:19:15,597 - root - INFO - Application started
+2025-04-11 09:19:15,603 - root - INFO - CSS styles loaded.
+2025-04-11 09:19:15,676 - root - INFO - Data loaded successfully.
+2025-04-11 09:19:15,677 - root - INFO - Default patient set: P001
+2025-04-11 09:19:15,679 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 09:19:35,924 - root - INFO - Application started
+2025-04-11 09:19:35,937 - root - INFO - CSS styles loaded.
+2025-04-11 09:19:36,118 - root - INFO - Application started
+2025-04-11 09:19:36,122 - root - INFO - CSS styles loaded.
+2025-04-11 09:19:36,125 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 09:19:36,337 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 09:19:36,339 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 09:19:36,340 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 09:19:49,567 - root - INFO - Application started
+2025-04-11 09:19:49,580 - root - INFO - CSS styles loaded.
+2025-04-11 09:19:49,731 - root - INFO - Application started
+2025-04-11 09:19:49,736 - root - INFO - CSS styles loaded.
+2025-04-11 09:19:49,738 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 09:19:49,924 - root - INFO - Retrieved 3 side effect records from database for patient P002
+2025-04-11 09:19:49,926 - root - INFO - Fetched 2 side effect records from CSV for P002
+2025-04-11 09:19:49,927 - root - INFO - Found side effect data in both database and CSV for P002, using database data
+2025-04-11 09:19:53,148 - root - INFO - Application started
+2025-04-11 09:19:53,159 - root - INFO - CSS styles loaded.
+2025-04-11 09:19:53,329 - root - INFO - Application started
+2025-04-11 09:19:53,333 - root - INFO - CSS styles loaded.
+2025-04-11 09:19:53,345 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 09:19:53,516 - root - INFO - Retrieved 7 side effect records from database for patient P003
+2025-04-11 09:19:53,517 - root - INFO - Fetched 4 side effect records from CSV for P003
+2025-04-11 09:19:53,519 - root - INFO - Found side effect data in both database and CSV for P003, using database data
+2025-04-11 09:19:55,737 - root - INFO - Application started
+2025-04-11 09:19:55,749 - root - INFO - CSS styles loaded.
+2025-04-11 09:19:55,899 - root - INFO - Application started
+2025-04-11 09:19:55,903 - root - INFO - CSS styles loaded.
+2025-04-11 09:19:55,906 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 09:19:56,104 - root - INFO - Retrieved 1 side effect records from database for patient P004
+2025-04-11 09:19:56,106 - root - INFO - Fetched 1 side effect records from CSV for P004
+2025-04-11 09:19:56,106 - root - INFO - Found side effect data in both database and CSV for P004, using database data
+2025-04-11 09:19:58,361 - root - INFO - Application started
+2025-04-11 09:19:58,372 - root - INFO - CSS styles loaded.
+2025-04-11 09:19:58,546 - root - INFO - Application started
+2025-04-11 09:19:58,554 - root - INFO - CSS styles loaded.
+2025-04-11 09:19:58,564 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 09:19:58,728 - root - WARNING - No side effect data found for patient P007 in database or CSV
+2025-04-11 10:03:34,705 - root - INFO - Application started
+2025-04-11 10:03:37,750 - root - INFO - Application started
+2025-04-11 10:03:40,521 - root - INFO - Application started
+2025-04-11 10:03:46,008 - root - INFO - Application started
+2025-04-11 10:03:46,156 - root - INFO - Application started
+2025-04-11 10:03:46,170 - root - INFO - CSS styles loaded.
+2025-04-11 10:03:46,244 - root - INFO - Data loaded successfully.
+2025-04-11 10:03:46,245 - root - INFO - Default patient set: P001
+2025-04-11 10:03:46,249 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 10:03:48,005 - root - INFO - Application started
+2025-04-11 10:03:48,019 - root - INFO - CSS styles loaded.
+2025-04-11 10:03:48,169 - root - INFO - Application started
+2025-04-11 10:03:48,173 - root - INFO - CSS styles loaded.
+2025-04-11 10:03:48,175 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 10:03:56,836 - root - INFO - Application started
+2025-04-11 10:03:56,843 - root - INFO - CSS styles loaded.
+2025-04-11 10:03:57,029 - root - INFO - Application started
+2025-04-11 10:03:57,044 - root - INFO - CSS styles loaded.
+2025-04-11 10:03:57,046 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:03:57,368 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 10:03:57,371 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 10:03:57,372 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 10:05:01,253 - root - INFO - Application started
+2025-04-11 10:05:04,432 - root - INFO - Application started
+2025-04-11 10:05:06,173 - root - INFO - Application started
+2025-04-11 10:05:06,241 - root - INFO - Application started
+2025-04-11 10:05:06,285 - root - INFO - Application started
+2025-04-11 10:05:06,289 - root - INFO - Running database initialization check...
+2025-04-11 10:05:06,290 - root - INFO - Initializing database...
+2025-04-11 10:05:06,292 - root - INFO - Table 'nurse_inputs' checked/created.
+2025-04-11 10:05:06,293 - root - INFO - Table 'side_effects' checked/created.
+2025-04-11 10:05:06,293 - root - INFO - Table 'patients' checked/created.
+2025-04-11 10:05:06,293 - root - INFO - Database initialization complete.
+2025-04-11 10:05:06,293 - root - INFO - Database initialization check complete.
+2025-04-11 10:05:06,300 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:06,353 - root - INFO - Data loaded successfully.
+2025-04-11 10:05:06,353 - root - INFO - Default patient set: P001
+2025-04-11 10:05:06,356 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 10:05:07,744 - root - INFO - Application started
+2025-04-11 10:05:07,748 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:07,833 - root - INFO - Application started
+2025-04-11 10:05:07,841 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:07,845 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 10:05:18,525 - root - INFO - Application started
+2025-04-11 10:05:18,534 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:18,690 - root - INFO - Application started
+2025-04-11 10:05:18,698 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:18,700 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:05:19,064 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 10:05:19,066 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 10:05:19,068 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 10:05:37,996 - root - INFO - Application started
+2025-04-11 10:05:38,006 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:38,137 - root - INFO - Application started
+2025-04-11 10:05:38,140 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:38,143 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:05:38,327 - root - INFO - Retrieved 4 side effect records from database for patient P002
+2025-04-11 10:05:38,329 - root - INFO - Fetched 3 side effect records from CSV for P002
+2025-04-11 10:05:38,330 - root - INFO - Found side effect data in both database and CSV for P002, using database data
+2025-04-11 10:05:40,978 - root - INFO - Application started
+2025-04-11 10:05:40,986 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:41,135 - root - INFO - Application started
+2025-04-11 10:05:41,138 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:41,139 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:05:41,335 - root - INFO - Retrieved 11 side effect records from database for patient P003
+2025-04-11 10:05:41,337 - root - INFO - Fetched 8 side effect records from CSV for P003
+2025-04-11 10:05:41,338 - root - INFO - Found side effect data in both database and CSV for P003, using database data
+2025-04-11 10:05:43,896 - root - INFO - Application started
+2025-04-11 10:05:43,906 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:44,095 - root - INFO - Application started
+2025-04-11 10:05:44,100 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:44,104 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:05:44,276 - root - INFO - Retrieved 2 side effect records from database for patient P004
+2025-04-11 10:05:44,278 - root - INFO - Fetched 2 side effect records from CSV for P004
+2025-04-11 10:05:44,279 - root - INFO - Found side effect data in both database and CSV for P004, using database data
+2025-04-11 10:05:46,744 - root - INFO - Application started
+2025-04-11 10:05:46,755 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:46,897 - root - INFO - Application started
+2025-04-11 10:05:46,900 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:46,902 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:05:47,096 - root - INFO - Retrieved 2 side effect records from database for patient P005
+2025-04-11 10:05:47,098 - root - INFO - Fetched 2 side effect records from CSV for P005
+2025-04-11 10:05:47,099 - root - INFO - Found side effect data in both database and CSV for P005, using database data
+2025-04-11 10:05:48,737 - root - INFO - Application started
+2025-04-11 10:05:48,744 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:48,863 - root - INFO - Application started
+2025-04-11 10:05:48,866 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:48,868 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:05:49,045 - root - INFO - Retrieved 4 side effect records from database for patient P006
+2025-04-11 10:05:49,047 - root - INFO - Fetched 3 side effect records from CSV for P006
+2025-04-11 10:05:49,049 - root - INFO - Found side effect data in both database and CSV for P006, using database data
+2025-04-11 10:05:51,545 - root - INFO - Application started
+2025-04-11 10:05:51,552 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:51,680 - root - INFO - Application started
+2025-04-11 10:05:51,682 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:51,684 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:05:51,849 - root - INFO - Retrieved 3 side effect records from database for patient P007
+2025-04-11 10:05:51,851 - root - INFO - Fetched 3 side effect records from CSV for P007
+2025-04-11 10:05:51,852 - root - INFO - Found side effect data in both database and CSV for P007, using database data
+2025-04-11 10:05:55,543 - root - INFO - Application started
+2025-04-11 10:05:55,550 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:55,686 - root - INFO - Application started
+2025-04-11 10:05:55,689 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:55,690 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:05:55,861 - root - INFO - Retrieved 4 side effect records from database for patient P008
+2025-04-11 10:05:55,863 - root - INFO - Fetched 3 side effect records from CSV for P008
+2025-04-11 10:05:55,863 - root - INFO - Found side effect data in both database and CSV for P008, using database data
+2025-04-11 10:05:58,996 - root - INFO - Application started
+2025-04-11 10:05:59,006 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:59,152 - root - INFO - Application started
+2025-04-11 10:05:59,154 - root - INFO - CSS styles loaded.
+2025-04-11 10:05:59,156 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:05:59,334 - root - INFO - Retrieved 2 side effect records from database for patient P010
+2025-04-11 10:05:59,336 - root - INFO - Fetched 1 side effect records from CSV for P010
+2025-04-11 10:05:59,337 - root - INFO - Found side effect data in both database and CSV for P010, using database data
+2025-04-11 10:50:03,739 - root - INFO - Application started
+2025-04-11 10:50:06,108 - root - INFO - Application started
+2025-04-11 10:50:07,432 - root - INFO - Application started
+2025-04-11 10:50:08,463 - root - INFO - Application started
+2025-04-11 10:50:08,556 - root - INFO - Application started
+2025-04-11 10:50:08,567 - root - INFO - Running database initialization check...
+2025-04-11 10:50:08,567 - root - INFO - Initializing database...
+2025-04-11 10:50:08,569 - root - INFO - Table 'nurse_inputs' checked/created.
+2025-04-11 10:50:08,570 - root - INFO - Table 'side_effects' checked/created.
+2025-04-11 10:50:08,570 - root - INFO - Table 'patients' checked/created.
+2025-04-11 10:50:08,570 - root - INFO - Database initialization complete.
+2025-04-11 10:50:08,570 - root - INFO - Database initialization check complete.
+2025-04-11 10:50:08,571 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:08,612 - root - INFO - Data loaded successfully.
+2025-04-11 10:50:08,612 - root - INFO - Default patient set: P001
+2025-04-11 10:50:08,619 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 10:50:10,675 - root - INFO - Application started
+2025-04-11 10:50:10,684 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:10,839 - root - INFO - Application started
+2025-04-11 10:50:10,848 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:10,851 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 10:50:16,029 - root - INFO - Application started
+2025-04-11 10:50:16,038 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:16,247 - root - INFO - Application started
+2025-04-11 10:50:16,382 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:16,415 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:50:16,907 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 10:50:16,909 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 10:50:16,910 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 10:50:39,404 - root - INFO - Application started
+2025-04-11 10:50:41,330 - root - INFO - Application started
+2025-04-11 10:50:43,549 - root - INFO - Application started
+2025-04-11 10:50:43,651 - root - INFO - Application started
+2025-04-11 10:50:43,702 - root - INFO - Application started
+2025-04-11 10:50:43,707 - root - INFO - Running database initialization check...
+2025-04-11 10:50:43,707 - root - INFO - Initializing database...
+2025-04-11 10:50:43,711 - root - INFO - Table 'nurse_inputs' checked/created.
+2025-04-11 10:50:43,711 - root - INFO - Table 'side_effects' checked/created.
+2025-04-11 10:50:43,712 - root - INFO - Table 'patients' checked/created.
+2025-04-11 10:50:43,712 - root - INFO - Database initialization complete.
+2025-04-11 10:50:43,712 - root - INFO - Database initialization check complete.
+2025-04-11 10:50:43,716 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:43,781 - root - INFO - Data loaded successfully.
+2025-04-11 10:50:43,781 - root - INFO - Default patient set: P001
+2025-04-11 10:50:43,785 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 10:50:44,906 - root - INFO - Application started
+2025-04-11 10:50:44,914 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:44,989 - root - INFO - Application started
+2025-04-11 10:50:44,998 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:45,000 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 10:50:47,098 - root - INFO - Application started
+2025-04-11 10:50:47,109 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:47,115 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 10:50:47,287 - root - INFO - Application started
+2025-04-11 10:50:47,299 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:47,301 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:50:47,679 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 10:50:47,681 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 10:50:47,682 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 10:50:51,382 - root - INFO - Application started
+2025-04-11 10:50:51,392 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:51,541 - root - INFO - Application started
+2025-04-11 10:50:51,544 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:51,546 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:50:51,730 - root - INFO - Retrieved 6 side effect records from database for patient P002
+2025-04-11 10:50:51,732 - root - INFO - Fetched 5 side effect records from CSV for P002
+2025-04-11 10:50:51,733 - root - INFO - Found side effect data in both database and CSV for P002, using database data
+2025-04-11 10:50:53,910 - root - INFO - Application started
+2025-04-11 10:50:53,918 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:54,048 - root - INFO - Application started
+2025-04-11 10:50:54,050 - root - INFO - CSS styles loaded.
+2025-04-11 10:50:54,052 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:50:54,218 - root - INFO - Retrieved 15 side effect records from database for patient P003
+2025-04-11 10:50:54,220 - root - INFO - Fetched 12 side effect records from CSV for P003
+2025-04-11 10:50:54,221 - root - INFO - Found side effect data in both database and CSV for P003, using database data
+2025-04-11 10:52:04,431 - root - INFO - Application started
+2025-04-11 10:52:07,053 - root - INFO - Application started
+2025-04-11 10:52:09,463 - root - INFO - Application started
+2025-04-11 10:52:09,630 - root - INFO - Application started
+2025-04-11 10:52:09,690 - root - INFO - Application started
+2025-04-11 10:52:09,695 - root - INFO - CSS styles loaded.
+2025-04-11 10:52:09,779 - root - INFO - Data loaded successfully.
+2025-04-11 10:52:09,780 - root - INFO - Default patient set: P001
+2025-04-11 10:52:09,803 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 10:52:14,855 - root - INFO - Application started
+2025-04-11 10:52:14,871 - root - INFO - CSS styles loaded.
+2025-04-11 10:52:14,882 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 10:52:15,045 - root - INFO - Application started
+2025-04-11 10:52:15,048 - root - INFO - CSS styles loaded.
+2025-04-11 10:52:15,050 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:52:15,297 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 10:52:15,298 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 10:52:15,299 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 10:52:19,002 - root - INFO - Application started
+2025-04-11 10:52:19,097 - root - INFO - CSS styles loaded.
+2025-04-11 10:52:19,243 - root - INFO - Application started
+2025-04-11 10:52:19,247 - root - INFO - CSS styles loaded.
+2025-04-11 10:52:19,256 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:52:19,438 - root - INFO - Retrieved 6 side effect records from database for patient P002
+2025-04-11 10:52:19,440 - root - INFO - Fetched 5 side effect records from CSV for P002
+2025-04-11 10:52:19,442 - root - INFO - Found side effect data in both database and CSV for P002, using database data
+2025-04-11 10:52:20,953 - root - INFO - Application started
+2025-04-11 10:52:20,962 - root - INFO - CSS styles loaded.
+2025-04-11 10:52:21,113 - root - INFO - Application started
+2025-04-11 10:52:21,117 - root - INFO - CSS styles loaded.
+2025-04-11 10:52:21,119 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:52:21,302 - root - INFO - Retrieved 15 side effect records from database for patient P003
+2025-04-11 10:52:21,305 - root - INFO - Fetched 12 side effect records from CSV for P003
+2025-04-11 10:52:21,306 - root - INFO - Found side effect data in both database and CSV for P003, using database data
+2025-04-11 10:52:24,618 - root - INFO - Application started
+2025-04-11 10:52:24,630 - root - INFO - CSS styles loaded.
+2025-04-11 10:52:24,799 - root - INFO - Application started
+2025-04-11 10:52:24,802 - root - INFO - CSS styles loaded.
+2025-04-11 10:52:24,807 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 10:52:24,985 - root - INFO - Retrieved 2 side effect records from database for patient P004
+2025-04-11 10:52:24,989 - root - INFO - Fetched 2 side effect records from CSV for P004
+2025-04-11 10:52:24,990 - root - INFO - Found side effect data in both database and CSV for P004, using database data
+2025-04-11 13:22:04,496 - root - INFO - Application started
+2025-04-11 13:22:09,343 - root - INFO - Application started
+2025-04-11 13:22:12,530 - root - INFO - Application started
+2025-04-11 13:22:12,607 - root - INFO - Application started
+2025-04-11 13:22:12,649 - root - INFO - Application started
+2025-04-11 13:22:12,653 - root - INFO - Running database initialization check...
+2025-04-11 13:22:12,653 - root - INFO - Initializing database...
+2025-04-11 13:22:12,656 - root - INFO - Table 'nurse_inputs' checked/created.
+2025-04-11 13:22:12,657 - root - INFO - Table 'side_effects' checked/created.
+2025-04-11 13:22:12,657 - root - INFO - Table 'patients' checked/created.
+2025-04-11 13:22:12,657 - root - INFO - Database initialization complete.
+2025-04-11 13:22:12,657 - root - INFO - Database initialization check complete.
+2025-04-11 13:22:12,658 - root - INFO - CSS styles loaded.
+2025-04-11 13:22:12,705 - root - INFO - Data loaded successfully.
+2025-04-11 13:22:12,706 - root - INFO - Default patient set: P001
+2025-04-11 13:22:12,711 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 13:22:34,709 - root - INFO - Application started
+2025-04-11 13:22:34,724 - root - INFO - CSS styles loaded.
+2025-04-11 13:22:34,896 - root - INFO - Application started
+2025-04-11 13:22:34,899 - root - INFO - CSS styles loaded.
+2025-04-11 13:22:34,901 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 13:22:35,316 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 13:22:35,317 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 13:22:35,318 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:22:40,076 - root - INFO - Application started
+2025-04-11 13:22:40,091 - root - INFO - CSS styles loaded.
+2025-04-11 13:22:40,229 - root - INFO - Application started
+2025-04-11 13:22:40,232 - root - INFO - CSS styles loaded.
+2025-04-11 13:22:40,234 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 13:22:40,390 - root - INFO - Retrieved 2 side effect records from database for patient P004
+2025-04-11 13:22:40,392 - root - INFO - Fetched 2 side effect records from CSV for P004
+2025-04-11 13:22:40,393 - root - INFO - Found side effect data in both database and CSV for P004, using database data
+2025-04-11 13:23:33,631 - root - INFO - Application started
+2025-04-11 13:23:33,641 - root - INFO - CSS styles loaded.
+2025-04-11 13:23:33,792 - root - INFO - Application started
+2025-04-11 13:23:33,795 - root - INFO - CSS styles loaded.
+2025-04-11 13:23:33,797 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 13:23:33,990 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 13:23:33,993 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 13:23:33,994 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:23:38,249 - root - INFO - Application started
+2025-04-11 13:23:38,259 - root - INFO - CSS styles loaded.
+2025-04-11 13:23:38,380 - root - INFO - Application started
+2025-04-11 13:23:38,382 - root - INFO - CSS styles loaded.
+2025-04-11 13:23:38,384 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 13:23:45,562 - root - INFO - Application started
+2025-04-11 13:23:45,571 - root - INFO - CSS styles loaded.
+2025-04-11 13:23:45,734 - root - INFO - Application started
+2025-04-11 13:23:45,745 - root - INFO - CSS styles loaded.
+2025-04-11 13:23:45,761 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:23:45,770 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 13:23:45,773 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 13:23:45,778 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:24:05,847 - root - INFO - Application started
+2025-04-11 13:24:05,857 - root - INFO - CSS styles loaded.
+2025-04-11 13:24:05,864 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:24:05,901 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 13:24:05,905 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 13:24:05,910 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:24:18,602 - root - INFO - Application started
+2025-04-11 13:24:18,612 - root - INFO - CSS styles loaded.
+2025-04-11 13:24:18,635 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:24:18,648 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 13:24:18,652 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 13:24:18,653 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:31:03,706 - root - INFO - Application started
+2025-04-11 13:31:06,312 - root - INFO - Application started
+2025-04-11 13:31:08,313 - root - INFO - Application started
+2025-04-11 13:31:08,401 - root - INFO - Application started
+2025-04-11 13:31:08,452 - root - INFO - Application started
+2025-04-11 13:31:08,454 - root - INFO - Running database initialization check...
+2025-04-11 13:31:08,454 - root - INFO - Initializing database...
+2025-04-11 13:31:08,456 - root - INFO - Table 'nurse_inputs' checked/created.
+2025-04-11 13:31:08,457 - root - INFO - Table 'side_effects' checked/created.
+2025-04-11 13:31:08,457 - root - INFO - Table 'patients' checked/created.
+2025-04-11 13:31:08,457 - root - INFO - Database initialization complete.
+2025-04-11 13:31:08,457 - root - INFO - Database initialization check complete.
+2025-04-11 13:31:08,458 - root - INFO - CSS styles loaded.
+2025-04-11 13:31:08,500 - root - INFO - Data loaded successfully.
+2025-04-11 13:31:08,500 - root - INFO - Default patient set: P001
+2025-04-11 13:31:08,503 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 13:31:12,022 - root - INFO - Application started
+2025-04-11 13:31:12,029 - root - INFO - CSS styles loaded.
+2025-04-11 13:31:12,038 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 13:31:12,165 - root - INFO - Application started
+2025-04-11 13:31:12,172 - root - INFO - CSS styles loaded.
+2025-04-11 13:31:12,178 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 13:31:12,536 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 13:31:12,538 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 13:31:12,539 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:31:13,076 - root - INFO - Application started
+2025-04-11 13:31:13,080 - root - INFO - CSS styles loaded.
+2025-04-11 13:31:13,148 - root - INFO - Application started
+2025-04-11 13:31:13,150 - root - INFO - CSS styles loaded.
+2025-04-11 13:31:13,152 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 13:31:13,302 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 13:31:13,303 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 13:31:13,304 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:31:25,288 - root - INFO - Application started
+2025-04-11 13:31:25,301 - root - INFO - CSS styles loaded.
+2025-04-11 13:31:25,459 - root - INFO - Application started
+2025-04-11 13:31:25,461 - root - INFO - CSS styles loaded.
+2025-04-11 13:31:25,463 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:31:25,466 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 13:31:25,468 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 13:31:25,469 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:31:41,367 - root - INFO - Application started
+2025-04-11 13:31:41,376 - root - INFO - CSS styles loaded.
+2025-04-11 13:31:41,382 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:31:41,409 - root - INFO - Retrieved 3 side effect records from database for patient P001
+2025-04-11 13:31:41,413 - root - INFO - Fetched 3 side effect records from CSV for P001
+2025-04-11 13:31:41,427 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:31:41,533 - root - INFO - Side effect report saved successfully to database for Patient ID P001.
+2025-04-11 13:31:41,539 - root - INFO - Side effect report saved successfully to CSV for Patient ID P001.
+2025-04-11 13:31:41,606 - root - INFO - Application started
+2025-04-11 13:31:41,609 - root - INFO - CSS styles loaded.
+2025-04-11 13:31:41,611 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:31:41,613 - root - INFO - Retrieved 4 side effect records from database for patient P001
+2025-04-11 13:31:41,615 - root - INFO - Fetched 4 side effect records from CSV for P001
+2025-04-11 13:31:41,617 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:31:52,312 - root - INFO - Application started
+2025-04-11 13:31:52,323 - root - INFO - CSS styles loaded.
+2025-04-11 13:31:52,335 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:31:52,354 - root - INFO - Retrieved 4 side effect records from database for patient P001
+2025-04-11 13:31:52,404 - root - INFO - Fetched 4 side effect records from CSV for P001
+2025-04-11 13:31:52,405 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:31:52,484 - root - INFO - Side effect report saved successfully to database for Patient ID P001.
+2025-04-11 13:31:52,487 - root - INFO - Side effect report saved successfully to CSV for Patient ID P001.
+2025-04-11 13:31:52,557 - root - INFO - Application started
+2025-04-11 13:31:52,560 - root - INFO - CSS styles loaded.
+2025-04-11 13:31:52,562 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:31:52,565 - root - INFO - Retrieved 5 side effect records from database for patient P001
+2025-04-11 13:31:52,567 - root - INFO - Fetched 5 side effect records from CSV for P001
+2025-04-11 13:31:52,568 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:32:09,408 - root - INFO - Application started
+2025-04-11 13:32:09,418 - root - INFO - CSS styles loaded.
+2025-04-11 13:32:09,427 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:32:09,445 - root - INFO - Retrieved 5 side effect records from database for patient P001
+2025-04-11 13:32:09,462 - root - INFO - Fetched 5 side effect records from CSV for P001
+2025-04-11 13:32:09,486 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:32:09,553 - root - INFO - Side effect report saved successfully to database for Patient ID P001.
+2025-04-11 13:32:09,557 - root - INFO - Side effect report saved successfully to CSV for Patient ID P001.
+2025-04-11 13:32:09,631 - root - INFO - Application started
+2025-04-11 13:32:09,634 - root - INFO - CSS styles loaded.
+2025-04-11 13:32:09,635 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:32:09,638 - root - INFO - Retrieved 6 side effect records from database for patient P001
+2025-04-11 13:32:09,640 - root - INFO - Fetched 6 side effect records from CSV for P001
+2025-04-11 13:32:09,642 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:32:20,098 - root - INFO - Application started
+2025-04-11 13:32:20,110 - root - INFO - CSS styles loaded.
+2025-04-11 13:32:20,128 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:32:20,139 - root - INFO - Retrieved 6 side effect records from database for patient P001
+2025-04-11 13:32:20,149 - root - INFO - Fetched 6 side effect records from CSV for P001
+2025-04-11 13:32:20,151 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:32:20,277 - root - INFO - Side effect report saved successfully to database for Patient ID P001.
+2025-04-11 13:32:20,282 - root - INFO - Side effect report saved successfully to CSV for Patient ID P001.
+2025-04-11 13:32:20,355 - root - INFO - Application started
+2025-04-11 13:32:20,357 - root - INFO - CSS styles loaded.
+2025-04-11 13:32:20,359 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:32:20,362 - root - INFO - Retrieved 7 side effect records from database for patient P001
+2025-04-11 13:32:20,365 - root - INFO - Fetched 7 side effect records from CSV for P001
+2025-04-11 13:32:20,367 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:32:56,297 - root - INFO - Application started
+2025-04-11 13:32:56,309 - root - INFO - CSS styles loaded.
+2025-04-11 13:32:56,314 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:32:56,341 - root - INFO - Retrieved 7 side effect records from database for patient P001
+2025-04-11 13:32:56,354 - root - INFO - Fetched 7 side effect records from CSV for P001
+2025-04-11 13:32:56,363 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:32:56,430 - root - INFO - Side effect report saved successfully to database for Patient ID P001.
+2025-04-11 13:32:56,434 - root - INFO - Side effect report saved successfully to CSV for Patient ID P001.
+2025-04-11 13:32:56,520 - root - INFO - Application started
+2025-04-11 13:32:56,523 - root - INFO - CSS styles loaded.
+2025-04-11 13:32:56,525 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:32:56,528 - root - INFO - Retrieved 8 side effect records from database for patient P001
+2025-04-11 13:32:56,530 - root - INFO - Fetched 8 side effect records from CSV for P001
+2025-04-11 13:32:56,533 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:33:03,016 - root - INFO - Application started
+2025-04-11 13:33:03,028 - root - INFO - CSS styles loaded.
+2025-04-11 13:33:03,040 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:33:03,048 - root - INFO - Retrieved 8 side effect records from database for patient P001
+2025-04-11 13:33:03,058 - root - INFO - Fetched 8 side effect records from CSV for P001
+2025-04-11 13:33:03,061 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:33:03,124 - root - INFO - Side effect report saved successfully to database for Patient ID P001.
+2025-04-11 13:33:03,128 - root - INFO - Side effect report saved successfully to CSV for Patient ID P001.
+2025-04-11 13:33:03,213 - root - INFO - Application started
+2025-04-11 13:33:03,215 - root - INFO - CSS styles loaded.
+2025-04-11 13:33:03,217 - root - INFO - Routing to page: Suivi des Effets Secondaires
+2025-04-11 13:33:03,219 - root - INFO - Retrieved 9 side effect records from database for patient P001
+2025-04-11 13:33:03,223 - root - INFO - Fetched 9 side effect records from CSV for P001
+2025-04-11 13:33:03,226 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:33:10,354 - root - INFO - Application started
+2025-04-11 13:33:10,365 - root - INFO - CSS styles loaded.
+2025-04-11 13:33:10,524 - root - INFO - Application started
+2025-04-11 13:33:10,531 - root - INFO - CSS styles loaded.
+2025-04-11 13:33:10,537 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 13:33:10,722 - root - INFO - Retrieved 9 side effect records from database for patient P001
+2025-04-11 13:33:10,723 - root - INFO - Fetched 9 side effect records from CSV for P001
+2025-04-11 13:33:10,725 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:33:31,998 - root - INFO - Application started
+2025-04-11 13:33:32,011 - root - INFO - CSS styles loaded.
+2025-04-11 13:33:32,160 - root - INFO - Application started
+2025-04-11 13:33:32,164 - root - INFO - CSS styles loaded.
+2025-04-11 13:33:32,166 - root - INFO - Routing to page: Plan de Soins et Entrées Infirmières
+2025-04-11 13:34:10,858 - root - INFO - Application started
+2025-04-11 13:34:10,867 - root - INFO - CSS styles loaded.
+2025-04-11 13:34:10,878 - root - INFO - Routing to page: Plan de Soins et Entrées Infirmières
+2025-04-11 13:34:10,892 - root - INFO - Nurse inputs saved successfully for Patient ID P001.
+2025-04-11 13:34:11,026 - root - INFO - Application started
+2025-04-11 13:34:11,028 - root - INFO - CSS styles loaded.
+2025-04-11 13:34:11,030 - root - INFO - Routing to page: Plan de Soins et Entrées Infirmières
+2025-04-11 13:34:13,029 - root - INFO - Application started
+2025-04-11 13:34:13,037 - root - INFO - CSS styles loaded.
+2025-04-11 13:34:13,117 - root - INFO - Application started
+2025-04-11 13:34:13,119 - root - INFO - CSS styles loaded.
+2025-04-11 13:34:13,121 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 13:34:13,337 - root - INFO - Retrieved 9 side effect records from database for patient P001
+2025-04-11 13:34:13,341 - root - INFO - Fetched 9 side effect records from CSV for P001
+2025-04-11 13:34:13,342 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:34:19,902 - root - INFO - Application started
+2025-04-11 13:34:19,913 - root - INFO - CSS styles loaded.
+2025-04-11 13:34:20,062 - root - INFO - Application started
+2025-04-11 13:34:20,064 - root - INFO - CSS styles loaded.
+2025-04-11 13:34:20,066 - root - INFO - Routing to page: Plan de Soins et Entrées Infirmières
+2025-04-11 13:34:21,229 - root - INFO - Application started
+2025-04-11 13:34:21,236 - root - INFO - CSS styles loaded.
+2025-04-11 13:34:21,302 - root - INFO - Application started
+2025-04-11 13:34:21,306 - root - INFO - CSS styles loaded.
+2025-04-11 13:34:21,314 - root - INFO - Routing to page: Analyse des Protocoles
+2025-04-11 13:44:29,233 - root - INFO - Application started
+2025-04-11 13:44:32,664 - root - INFO - Application started
+2025-04-11 13:44:34,658 - root - INFO - Application started
+2025-04-11 13:44:34,756 - root - INFO - Application started
+2025-04-11 13:44:34,815 - root - INFO - Application started
+2025-04-11 13:44:34,819 - root - INFO - CSS styles loaded.
+2025-04-11 13:44:34,879 - root - INFO - Data loaded successfully.
+2025-04-11 13:44:34,882 - root - INFO - Default patient set: P001
+2025-04-11 13:44:34,886 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 13:44:46,988 - root - INFO - Application started
+2025-04-11 13:44:47,006 - root - INFO - CSS styles loaded.
+2025-04-11 13:44:47,199 - root - INFO - Application started
+2025-04-11 13:44:47,201 - root - INFO - CSS styles loaded.
+2025-04-11 13:44:47,214 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 13:44:50,312 - root - INFO - Application started
+2025-04-11 13:44:50,324 - root - INFO - CSS styles loaded.
+2025-04-11 13:44:50,466 - root - INFO - Application started
+2025-04-11 13:44:50,468 - root - INFO - CSS styles loaded.
+2025-04-11 13:44:50,470 - root - INFO - Routing to page: Analyse des Interventions Pharmacologiques
+2025-04-11 13:54:17,352 - root - INFO - Application started
+2025-04-11 13:54:19,469 - root - INFO - Application started
+2025-04-11 13:54:23,324 - root - INFO - Application started
+2025-04-11 13:54:25,544 - root - INFO - Application started
+2025-04-11 13:54:25,610 - root - INFO - Application started
+2025-04-11 13:54:25,629 - root - INFO - CSS styles loaded.
+2025-04-11 13:54:25,679 - root - INFO - Data loaded successfully.
+2025-04-11 13:54:25,679 - root - INFO - Default patient set: P001
+2025-04-11 13:54:25,683 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 13:54:27,648 - root - INFO - Application started
+2025-04-11 13:54:27,657 - root - INFO - CSS styles loaded.
+2025-04-11 13:54:27,770 - root - INFO - Application started
+2025-04-11 13:54:27,780 - root - INFO - CSS styles loaded.
+2025-04-11 13:54:27,784 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 13:54:27,982 - root - INFO - Retrieved 9 side effect records from database for patient P001
+2025-04-11 13:54:27,984 - root - INFO - Fetched 9 side effect records from CSV for P001
+2025-04-11 13:54:27,985 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:54:29,215 - root - INFO - Application started
+2025-04-11 13:54:29,223 - root - INFO - CSS styles loaded.
+2025-04-11 13:54:29,287 - root - INFO - Application started
+2025-04-11 13:54:29,294 - root - INFO - CSS styles loaded.
+2025-04-11 13:54:29,297 - root - INFO - Routing to page: Parcours Patient
+2025-04-11 13:54:29,301 - root - INFO - Retrieved 9 side effect records from database for patient P001
+2025-04-11 13:54:29,303 - root - INFO - Fetched 9 side effect records from CSV for P001
+2025-04-11 13:54:29,303 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:54:30,903 - root - INFO - Application started
+2025-04-11 13:54:30,911 - root - INFO - CSS styles loaded.
+2025-04-11 13:54:31,002 - root - INFO - Application started
+2025-04-11 13:54:31,011 - root - INFO - CSS styles loaded.
+2025-04-11 13:54:31,021 - root - INFO - Routing to page: Analyse des Interventions Pharmacologiques
+2025-04-11 13:54:31,188 - root - INFO - Retrieved 9 side effect records from database for patient P001
+2025-04-11 13:54:31,189 - root - INFO - Fetched 9 side effect records from CSV for P001
+2025-04-11 13:54:31,190 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 13:54:31,192 - root - INFO - Retrieved 6 side effect records from database for patient P002
+2025-04-11 13:54:31,193 - root - INFO - Fetched 5 side effect records from CSV for P002
+2025-04-11 13:54:31,194 - root - INFO - Found side effect data in both database and CSV for P002, using database data
+2025-04-11 13:54:31,196 - root - INFO - Retrieved 15 side effect records from database for patient P003
+2025-04-11 13:54:31,197 - root - INFO - Fetched 12 side effect records from CSV for P003
+2025-04-11 13:54:31,198 - root - INFO - Found side effect data in both database and CSV for P003, using database data
+2025-04-11 13:54:31,200 - root - INFO - Retrieved 2 side effect records from database for patient P004
+2025-04-11 13:54:31,201 - root - INFO - Fetched 2 side effect records from CSV for P004
+2025-04-11 13:54:31,202 - root - INFO - Found side effect data in both database and CSV for P004, using database data
+2025-04-11 13:54:31,204 - root - INFO - Retrieved 5 side effect records from database for patient P005
+2025-04-11 13:54:31,207 - root - INFO - Fetched 5 side effect records from CSV for P005
+2025-04-11 13:54:31,208 - root - INFO - Found side effect data in both database and CSV for P005, using database data
+2025-04-11 13:54:31,210 - root - INFO - Retrieved 5 side effect records from database for patient P006
+2025-04-11 13:54:31,211 - root - INFO - Fetched 4 side effect records from CSV for P006
+2025-04-11 13:54:31,211 - root - INFO - Found side effect data in both database and CSV for P006, using database data
+2025-04-11 13:54:31,213 - root - INFO - Retrieved 4 side effect records from database for patient P007
+2025-04-11 13:54:31,214 - root - INFO - Fetched 4 side effect records from CSV for P007
+2025-04-11 13:54:31,215 - root - INFO - Found side effect data in both database and CSV for P007, using database data
+2025-04-11 13:54:31,216 - root - INFO - Retrieved 7 side effect records from database for patient P008
+2025-04-11 13:54:31,217 - root - INFO - Fetched 6 side effect records from CSV for P008
+2025-04-11 13:54:31,218 - root - INFO - Found side effect data in both database and CSV for P008, using database data
+2025-04-11 13:54:31,220 - root - INFO - Retrieved 1 side effect records from database for patient P009
+2025-04-11 13:54:31,221 - root - INFO - Fetched 1 side effect records from CSV for P009
+2025-04-11 13:54:31,221 - root - INFO - Found side effect data in both database and CSV for P009, using database data
+2025-04-11 13:54:31,226 - root - INFO - Retrieved 3 side effect records from database for patient P010
+2025-04-11 13:54:31,227 - root - INFO - Fetched 2 side effect records from CSV for P010
+2025-04-11 13:54:31,228 - root - INFO - Found side effect data in both database and CSV for P010, using database data
+2025-04-11 13:54:31,229 - root - INFO - Retrieved 6 side effect records from database for patient P011
+2025-04-11 13:54:31,233 - root - INFO - Fetched 5 side effect records from CSV for P011
+2025-04-11 13:54:31,234 - root - INFO - Found side effect data in both database and CSV for P011, using database data
+2025-04-11 13:54:31,236 - root - INFO - Retrieved 3 side effect records from database for patient P012
+2025-04-11 13:54:31,237 - root - INFO - Fetched 3 side effect records from CSV for P012
+2025-04-11 13:54:31,240 - root - INFO - Found side effect data in both database and CSV for P012, using database data
+2025-04-11 13:54:31,242 - root - INFO - Retrieved 6 side effect records from database for patient P013
+2025-04-11 13:54:31,243 - root - INFO - Fetched 6 side effect records from CSV for P013
+2025-04-11 13:54:31,244 - root - INFO - Found side effect data in both database and CSV for P013, using database data
+2025-04-11 13:54:31,245 - root - INFO - Retrieved 3 side effect records from database for patient P014
+2025-04-11 13:54:31,246 - root - INFO - Fetched 3 side effect records from CSV for P014
+2025-04-11 13:54:31,247 - root - INFO - Found side effect data in both database and CSV for P014, using database data
+2025-04-11 13:54:31,249 - root - INFO - Retrieved 5 side effect records from database for patient P015
+2025-04-11 13:54:31,250 - root - INFO - Fetched 5 side effect records from CSV for P015
+2025-04-11 13:54:31,250 - root - INFO - Found side effect data in both database and CSV for P015, using database data
+2025-04-11 13:54:31,252 - root - INFO - Retrieved 7 side effect records from database for patient P016
+2025-04-11 13:54:31,253 - root - INFO - Fetched 7 side effect records from CSV for P016
+2025-04-11 13:54:31,253 - root - INFO - Found side effect data in both database and CSV for P016, using database data
+2025-04-11 13:54:31,260 - root - INFO - Retrieved 3 side effect records from database for patient P017
+2025-04-11 13:54:31,262 - root - INFO - Fetched 2 side effect records from CSV for P017
+2025-04-11 13:54:31,262 - root - INFO - Found side effect data in both database and CSV for P017, using database data
+2025-04-11 13:54:31,264 - root - INFO - Retrieved 3 side effect records from database for patient P018
+2025-04-11 13:54:31,266 - root - INFO - Fetched 3 side effect records from CSV for P018
+2025-04-11 13:54:31,267 - root - INFO - Found side effect data in both database and CSV for P018, using database data
+2025-04-11 13:54:31,268 - root - INFO - Retrieved 2 side effect records from database for patient P019
+2025-04-11 13:54:31,269 - root - INFO - Fetched 2 side effect records from CSV for P019
+2025-04-11 13:54:31,270 - root - INFO - Found side effect data in both database and CSV for P019, using database data
+2025-04-11 13:54:31,275 - root - INFO - Retrieved 4 side effect records from database for patient P020
+2025-04-11 13:54:31,276 - root - INFO - Fetched 4 side effect records from CSV for P020
+2025-04-11 13:54:31,277 - root - INFO - Found side effect data in both database and CSV for P020, using database data
+2025-04-11 13:54:31,281 - root - INFO - Retrieved 6 side effect records from database for patient P021
+2025-04-11 13:54:31,283 - root - INFO - Fetched 5 side effect records from CSV for P021
+2025-04-11 13:54:31,284 - root - INFO - Found side effect data in both database and CSV for P021, using database data
+2025-04-11 13:54:31,286 - root - INFO - Retrieved 6 side effect records from database for patient P022
+2025-04-11 13:54:31,289 - root - INFO - Fetched 4 side effect records from CSV for P022
+2025-04-11 13:54:31,291 - root - INFO - Found side effect data in both database and CSV for P022, using database data
+2025-04-11 13:54:31,293 - root - INFO - Retrieved 4 side effect records from database for patient P023
+2025-04-11 13:54:31,295 - root - INFO - Fetched 4 side effect records from CSV for P023
+2025-04-11 13:54:31,298 - root - INFO - Found side effect data in both database and CSV for P023, using database data
+2025-04-11 13:54:31,299 - root - INFO - Retrieved 5 side effect records from database for patient P024
+2025-04-11 13:54:31,301 - root - INFO - Fetched 5 side effect records from CSV for P024
+2025-04-11 13:54:31,302 - root - INFO - Found side effect data in both database and CSV for P024, using database data
+2025-04-11 13:54:31,304 - root - INFO - Retrieved 5 side effect records from database for patient P025
+2025-04-11 13:54:31,305 - root - INFO - Fetched 4 side effect records from CSV for P025
+2025-04-11 13:54:31,306 - root - INFO - Found side effect data in both database and CSV for P025, using database data
+2025-04-11 13:54:31,308 - root - INFO - Retrieved 6 side effect records from database for patient P026
+2025-04-11 13:54:31,309 - root - INFO - Fetched 5 side effect records from CSV for P026
+2025-04-11 13:54:31,310 - root - INFO - Found side effect data in both database and CSV for P026, using database data
+2025-04-11 13:54:31,314 - root - INFO - Retrieved 8 side effect records from database for patient P027
+2025-04-11 13:54:31,315 - root - INFO - Fetched 7 side effect records from CSV for P027
+2025-04-11 13:54:31,316 - root - INFO - Found side effect data in both database and CSV for P027, using database data
+2025-04-11 13:54:31,317 - root - INFO - Retrieved 7 side effect records from database for patient P028
+2025-04-11 13:54:31,319 - root - INFO - Fetched 6 side effect records from CSV for P028
+2025-04-11 13:54:31,319 - root - INFO - Found side effect data in both database and CSV for P028, using database data
+2025-04-11 13:54:31,321 - root - INFO - Retrieved 3 side effect records from database for patient P029
+2025-04-11 13:54:31,322 - root - INFO - Fetched 3 side effect records from CSV for P029
+2025-04-11 13:54:31,323 - root - INFO - Found side effect data in both database and CSV for P029, using database data
+2025-04-11 13:54:31,324 - root - INFO - Retrieved 6 side effect records from database for patient P030
+2025-04-11 13:54:31,326 - root - INFO - Fetched 5 side effect records from CSV for P030
+2025-04-11 13:54:31,326 - root - INFO - Found side effect data in both database and CSV for P030, using database data
+2025-04-11 13:54:31,328 - root - INFO - Retrieved 9 side effect records from database for patient P031
+2025-04-11 13:54:31,329 - root - INFO - Fetched 9 side effect records from CSV for P031
+2025-04-11 13:54:31,330 - root - INFO - Found side effect data in both database and CSV for P031, using database data
+2025-04-11 13:54:31,331 - root - INFO - Retrieved 6 side effect records from database for patient P032
+2025-04-11 13:54:31,332 - root - INFO - Fetched 5 side effect records from CSV for P032
+2025-04-11 13:54:31,333 - root - INFO - Found side effect data in both database and CSV for P032, using database data
+2025-04-11 13:54:31,335 - root - INFO - Retrieved 3 side effect records from database for patient P033
+2025-04-11 13:54:31,336 - root - INFO - Fetched 3 side effect records from CSV for P033
+2025-04-11 13:54:31,337 - root - INFO - Found side effect data in both database and CSV for P033, using database data
+2025-04-11 13:54:31,338 - root - INFO - Retrieved 4 side effect records from database for patient P034
+2025-04-11 13:54:31,340 - root - INFO - Fetched 4 side effect records from CSV for P034
+2025-04-11 13:54:31,341 - root - INFO - Found side effect data in both database and CSV for P034, using database data
+2025-04-11 13:54:31,342 - root - INFO - Retrieved 6 side effect records from database for patient P035
+2025-04-11 13:54:31,343 - root - INFO - Fetched 5 side effect records from CSV for P035
+2025-04-11 13:54:31,344 - root - INFO - Found side effect data in both database and CSV for P035, using database data
+2025-04-11 13:54:31,345 - root - INFO - Retrieved 5 side effect records from database for patient P036
+2025-04-11 13:54:31,346 - root - INFO - Fetched 5 side effect records from CSV for P036
+2025-04-11 13:54:31,347 - root - INFO - Found side effect data in both database and CSV for P036, using database data
+2025-04-11 13:54:31,349 - root - INFO - Retrieved 6 side effect records from database for patient P037
+2025-04-11 13:54:31,350 - root - INFO - Fetched 5 side effect records from CSV for P037
+2025-04-11 13:54:31,351 - root - INFO - Found side effect data in both database and CSV for P037, using database data
+2025-04-11 13:54:31,352 - root - INFO - Retrieved 3 side effect records from database for patient P038
+2025-04-11 13:54:31,353 - root - INFO - Fetched 2 side effect records from CSV for P038
+2025-04-11 13:54:31,354 - root - INFO - Found side effect data in both database and CSV for P038, using database data
+2025-04-11 13:54:31,356 - root - INFO - Retrieved 4 side effect records from database for patient P039
+2025-04-11 13:54:31,357 - root - INFO - Fetched 3 side effect records from CSV for P039
+2025-04-11 13:54:31,358 - root - INFO - Found side effect data in both database and CSV for P039, using database data
+2025-04-11 13:54:31,360 - root - INFO - Retrieved 1 side effect records from database for patient P040
+2025-04-11 13:54:31,363 - root - INFO - Retrieved 5 side effect records from database for patient P041
+2025-04-11 13:54:31,366 - root - INFO - Fetched 3 side effect records from CSV for P041
+2025-04-11 13:54:31,368 - root - INFO - Found side effect data in both database and CSV for P041, using database data
+2025-04-11 13:54:31,369 - root - INFO - Retrieved 3 side effect records from database for patient P042
+2025-04-11 13:54:31,370 - root - INFO - Fetched 3 side effect records from CSV for P042
+2025-04-11 13:54:31,371 - root - INFO - Found side effect data in both database and CSV for P042, using database data
+2025-04-11 13:54:31,373 - root - INFO - Retrieved 4 side effect records from database for patient P043
+2025-04-11 13:54:31,374 - root - INFO - Fetched 4 side effect records from CSV for P043
+2025-04-11 13:54:31,375 - root - INFO - Found side effect data in both database and CSV for P043, using database data
+2025-04-11 13:54:31,376 - root - INFO - Retrieved 5 side effect records from database for patient P044
+2025-04-11 13:54:31,377 - root - INFO - Fetched 5 side effect records from CSV for P044
+2025-04-11 13:54:31,378 - root - INFO - Found side effect data in both database and CSV for P044, using database data
+2025-04-11 13:54:31,379 - root - INFO - Retrieved 8 side effect records from database for patient P045
+2025-04-11 13:54:31,380 - root - INFO - Fetched 6 side effect records from CSV for P045
+2025-04-11 13:54:31,381 - root - INFO - Found side effect data in both database and CSV for P045, using database data
+2025-04-11 13:54:31,382 - root - INFO - Retrieved 6 side effect records from database for patient P046
+2025-04-11 13:54:31,383 - root - INFO - Fetched 6 side effect records from CSV for P046
+2025-04-11 13:54:31,384 - root - INFO - Found side effect data in both database and CSV for P046, using database data
+2025-04-11 13:54:31,386 - root - INFO - Retrieved 6 side effect records from database for patient P047
+2025-04-11 13:54:31,387 - root - INFO - Fetched 6 side effect records from CSV for P047
+2025-04-11 13:54:31,387 - root - INFO - Found side effect data in both database and CSV for P047, using database data
+2025-04-11 13:54:31,389 - root - INFO - Retrieved 4 side effect records from database for patient P048
+2025-04-11 13:54:31,390 - root - INFO - Fetched 2 side effect records from CSV for P048
+2025-04-11 13:54:31,391 - root - INFO - Found side effect data in both database and CSV for P048, using database data
+2025-04-11 13:54:31,393 - root - INFO - Retrieved 6 side effect records from database for patient P049
+2025-04-11 13:54:31,394 - root - INFO - Fetched 6 side effect records from CSV for P049
+2025-04-11 13:54:31,394 - root - INFO - Found side effect data in both database and CSV for P049, using database data
+2025-04-11 13:54:31,395 - root - INFO - Retrieved 3 side effect records from database for patient P050
+2025-04-11 13:54:31,396 - root - INFO - Fetched 3 side effect records from CSV for P050
+2025-04-11 13:54:31,397 - root - INFO - Found side effect data in both database and CSV for P050, using database data
+2025-04-11 13:55:32,312 - root - INFO - Application started
+2025-04-11 13:55:32,325 - root - INFO - CSS styles loaded.
+2025-04-11 13:55:32,503 - root - INFO - Application started
+2025-04-11 13:55:32,509 - root - INFO - CSS styles loaded.
+2025-04-11 13:55:32,516 - root - INFO - Routing to page: Analyse des Interventions Pharmacologiques
+2025-04-11 14:17:27,035 - root - INFO - Application started
+2025-04-11 14:17:29,791 - root - INFO - Application started
+2025-04-11 14:17:32,208 - root - INFO - Application started
+2025-04-11 14:17:32,301 - root - INFO - Application started
+2025-04-11 14:17:32,364 - root - INFO - Application started
+2025-04-11 14:17:32,369 - root - INFO - CSS styles loaded.
+2025-04-11 14:17:32,450 - root - INFO - Data loaded successfully.
+2025-04-11 14:17:32,450 - root - INFO - Default patient set: P001
+2025-04-11 14:17:32,454 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 14:17:33,917 - root - INFO - Application started
+2025-04-11 14:17:33,928 - root - INFO - CSS styles loaded.
+2025-04-11 14:17:34,042 - root - INFO - Application started
+2025-04-11 14:17:34,044 - root - INFO - CSS styles loaded.
+2025-04-11 14:17:34,051 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 14:17:34,873 - root - INFO - Application started
+2025-04-11 14:17:34,881 - root - INFO - CSS styles loaded.
+2025-04-11 14:17:34,942 - root - INFO - Application started
+2025-04-11 14:17:34,945 - root - INFO - CSS styles loaded.
+2025-04-11 14:17:34,947 - root - INFO - Routing to page: Analyse des Interventions Pharmacologiques
+2025-04-11 14:17:35,122 - root - INFO - Retrieved 9 side effect records from database for patient P001
+2025-04-11 14:17:35,124 - root - INFO - Fetched 9 side effect records from CSV for P001
+2025-04-11 14:17:35,125 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 14:17:35,128 - root - INFO - Retrieved 6 side effect records from database for patient P002
+2025-04-11 14:17:35,130 - root - INFO - Fetched 5 side effect records from CSV for P002
+2025-04-11 14:17:35,131 - root - INFO - Found side effect data in both database and CSV for P002, using database data
+2025-04-11 14:17:35,135 - root - INFO - Retrieved 15 side effect records from database for patient P003
+2025-04-11 14:17:35,136 - root - INFO - Fetched 12 side effect records from CSV for P003
+2025-04-11 14:17:35,137 - root - INFO - Found side effect data in both database and CSV for P003, using database data
+2025-04-11 14:17:35,138 - root - INFO - Retrieved 2 side effect records from database for patient P004
+2025-04-11 14:17:35,139 - root - INFO - Fetched 2 side effect records from CSV for P004
+2025-04-11 14:17:35,140 - root - INFO - Found side effect data in both database and CSV for P004, using database data
+2025-04-11 14:17:35,141 - root - INFO - Retrieved 5 side effect records from database for patient P005
+2025-04-11 14:17:35,143 - root - INFO - Fetched 5 side effect records from CSV for P005
+2025-04-11 14:17:35,145 - root - INFO - Found side effect data in both database and CSV for P005, using database data
+2025-04-11 14:17:35,148 - root - INFO - Retrieved 5 side effect records from database for patient P006
+2025-04-11 14:17:35,149 - root - INFO - Fetched 4 side effect records from CSV for P006
+2025-04-11 14:17:35,150 - root - INFO - Found side effect data in both database and CSV for P006, using database data
+2025-04-11 14:17:35,151 - root - INFO - Retrieved 4 side effect records from database for patient P007
+2025-04-11 14:17:35,152 - root - INFO - Fetched 4 side effect records from CSV for P007
+2025-04-11 14:17:35,153 - root - INFO - Found side effect data in both database and CSV for P007, using database data
+2025-04-11 14:17:35,155 - root - INFO - Retrieved 7 side effect records from database for patient P008
+2025-04-11 14:17:35,156 - root - INFO - Fetched 6 side effect records from CSV for P008
+2025-04-11 14:17:35,156 - root - INFO - Found side effect data in both database and CSV for P008, using database data
+2025-04-11 14:17:35,158 - root - INFO - Retrieved 1 side effect records from database for patient P009
+2025-04-11 14:17:35,161 - root - INFO - Fetched 1 side effect records from CSV for P009
+2025-04-11 14:17:35,162 - root - INFO - Found side effect data in both database and CSV for P009, using database data
+2025-04-11 14:17:35,164 - root - INFO - Retrieved 3 side effect records from database for patient P010
+2025-04-11 14:17:35,165 - root - INFO - Fetched 2 side effect records from CSV for P010
+2025-04-11 14:17:35,166 - root - INFO - Found side effect data in both database and CSV for P010, using database data
+2025-04-11 14:17:35,168 - root - INFO - Retrieved 6 side effect records from database for patient P011
+2025-04-11 14:17:35,169 - root - INFO - Fetched 5 side effect records from CSV for P011
+2025-04-11 14:17:35,169 - root - INFO - Found side effect data in both database and CSV for P011, using database data
+2025-04-11 14:17:35,171 - root - INFO - Retrieved 3 side effect records from database for patient P012
+2025-04-11 14:17:35,172 - root - INFO - Fetched 3 side effect records from CSV for P012
+2025-04-11 14:17:35,173 - root - INFO - Found side effect data in both database and CSV for P012, using database data
+2025-04-11 14:17:35,174 - root - INFO - Retrieved 6 side effect records from database for patient P013
+2025-04-11 14:17:35,176 - root - INFO - Fetched 6 side effect records from CSV for P013
+2025-04-11 14:17:35,176 - root - INFO - Found side effect data in both database and CSV for P013, using database data
+2025-04-11 14:17:35,179 - root - INFO - Retrieved 3 side effect records from database for patient P014
+2025-04-11 14:17:35,180 - root - INFO - Fetched 3 side effect records from CSV for P014
+2025-04-11 14:17:35,181 - root - INFO - Found side effect data in both database and CSV for P014, using database data
+2025-04-11 14:17:35,182 - root - INFO - Retrieved 5 side effect records from database for patient P015
+2025-04-11 14:17:35,183 - root - INFO - Fetched 5 side effect records from CSV for P015
+2025-04-11 14:17:35,184 - root - INFO - Found side effect data in both database and CSV for P015, using database data
+2025-04-11 14:17:35,186 - root - INFO - Retrieved 7 side effect records from database for patient P016
+2025-04-11 14:17:35,187 - root - INFO - Fetched 7 side effect records from CSV for P016
+2025-04-11 14:17:35,187 - root - INFO - Found side effect data in both database and CSV for P016, using database data
+2025-04-11 14:17:35,188 - root - INFO - Retrieved 3 side effect records from database for patient P017
+2025-04-11 14:17:35,189 - root - INFO - Fetched 2 side effect records from CSV for P017
+2025-04-11 14:17:35,190 - root - INFO - Found side effect data in both database and CSV for P017, using database data
+2025-04-11 14:17:35,191 - root - INFO - Retrieved 3 side effect records from database for patient P018
+2025-04-11 14:17:35,192 - root - INFO - Fetched 3 side effect records from CSV for P018
+2025-04-11 14:17:35,193 - root - INFO - Found side effect data in both database and CSV for P018, using database data
+2025-04-11 14:17:35,195 - root - INFO - Retrieved 2 side effect records from database for patient P019
+2025-04-11 14:17:35,196 - root - INFO - Fetched 2 side effect records from CSV for P019
+2025-04-11 14:17:35,197 - root - INFO - Found side effect data in both database and CSV for P019, using database data
+2025-04-11 14:17:35,199 - root - INFO - Retrieved 4 side effect records from database for patient P020
+2025-04-11 14:17:35,201 - root - INFO - Fetched 4 side effect records from CSV for P020
+2025-04-11 14:17:35,201 - root - INFO - Found side effect data in both database and CSV for P020, using database data
+2025-04-11 14:17:35,204 - root - INFO - Retrieved 6 side effect records from database for patient P021
+2025-04-11 14:17:35,205 - root - INFO - Fetched 5 side effect records from CSV for P021
+2025-04-11 14:17:35,205 - root - INFO - Found side effect data in both database and CSV for P021, using database data
+2025-04-11 14:17:35,207 - root - INFO - Retrieved 6 side effect records from database for patient P022
+2025-04-11 14:17:35,208 - root - INFO - Fetched 4 side effect records from CSV for P022
+2025-04-11 14:17:35,208 - root - INFO - Found side effect data in both database and CSV for P022, using database data
+2025-04-11 14:17:35,210 - root - INFO - Retrieved 4 side effect records from database for patient P023
+2025-04-11 14:17:35,212 - root - INFO - Fetched 4 side effect records from CSV for P023
+2025-04-11 14:17:35,213 - root - INFO - Found side effect data in both database and CSV for P023, using database data
+2025-04-11 14:17:35,214 - root - INFO - Retrieved 5 side effect records from database for patient P024
+2025-04-11 14:17:35,215 - root - INFO - Fetched 5 side effect records from CSV for P024
+2025-04-11 14:17:35,216 - root - INFO - Found side effect data in both database and CSV for P024, using database data
+2025-04-11 14:17:35,217 - root - INFO - Retrieved 5 side effect records from database for patient P025
+2025-04-11 14:17:35,218 - root - INFO - Fetched 4 side effect records from CSV for P025
+2025-04-11 14:17:35,219 - root - INFO - Found side effect data in both database and CSV for P025, using database data
+2025-04-11 14:17:35,220 - root - INFO - Retrieved 6 side effect records from database for patient P026
+2025-04-11 14:17:35,221 - root - INFO - Fetched 5 side effect records from CSV for P026
+2025-04-11 14:17:35,222 - root - INFO - Found side effect data in both database and CSV for P026, using database data
+2025-04-11 14:17:35,223 - root - INFO - Retrieved 8 side effect records from database for patient P027
+2025-04-11 14:17:35,224 - root - INFO - Fetched 7 side effect records from CSV for P027
+2025-04-11 14:17:35,225 - root - INFO - Found side effect data in both database and CSV for P027, using database data
+2025-04-11 14:17:35,226 - root - INFO - Retrieved 7 side effect records from database for patient P028
+2025-04-11 14:17:35,229 - root - INFO - Fetched 6 side effect records from CSV for P028
+2025-04-11 14:17:35,229 - root - INFO - Found side effect data in both database and CSV for P028, using database data
+2025-04-11 14:17:35,231 - root - INFO - Retrieved 3 side effect records from database for patient P029
+2025-04-11 14:17:35,232 - root - INFO - Fetched 3 side effect records from CSV for P029
+2025-04-11 14:17:35,232 - root - INFO - Found side effect data in both database and CSV for P029, using database data
+2025-04-11 14:17:35,234 - root - INFO - Retrieved 6 side effect records from database for patient P030
+2025-04-11 14:17:35,235 - root - INFO - Fetched 5 side effect records from CSV for P030
+2025-04-11 14:17:35,236 - root - INFO - Found side effect data in both database and CSV for P030, using database data
+2025-04-11 14:17:35,237 - root - INFO - Retrieved 9 side effect records from database for patient P031
+2025-04-11 14:17:35,239 - root - INFO - Fetched 9 side effect records from CSV for P031
+2025-04-11 14:17:35,239 - root - INFO - Found side effect data in both database and CSV for P031, using database data
+2025-04-11 14:17:35,241 - root - INFO - Retrieved 6 side effect records from database for patient P032
+2025-04-11 14:17:35,242 - root - INFO - Fetched 5 side effect records from CSV for P032
+2025-04-11 14:17:35,242 - root - INFO - Found side effect data in both database and CSV for P032, using database data
+2025-04-11 14:17:35,245 - root - INFO - Retrieved 3 side effect records from database for patient P033
+2025-04-11 14:17:35,246 - root - INFO - Fetched 3 side effect records from CSV for P033
+2025-04-11 14:17:35,247 - root - INFO - Found side effect data in both database and CSV for P033, using database data
+2025-04-11 14:17:35,248 - root - INFO - Retrieved 4 side effect records from database for patient P034
+2025-04-11 14:17:35,249 - root - INFO - Fetched 4 side effect records from CSV for P034
+2025-04-11 14:17:35,250 - root - INFO - Found side effect data in both database and CSV for P034, using database data
+2025-04-11 14:17:35,252 - root - INFO - Retrieved 6 side effect records from database for patient P035
+2025-04-11 14:17:35,253 - root - INFO - Fetched 5 side effect records from CSV for P035
+2025-04-11 14:17:35,253 - root - INFO - Found side effect data in both database and CSV for P035, using database data
+2025-04-11 14:17:35,255 - root - INFO - Retrieved 5 side effect records from database for patient P036
+2025-04-11 14:17:35,256 - root - INFO - Fetched 5 side effect records from CSV for P036
+2025-04-11 14:17:35,257 - root - INFO - Found side effect data in both database and CSV for P036, using database data
+2025-04-11 14:17:35,258 - root - INFO - Retrieved 6 side effect records from database for patient P037
+2025-04-11 14:17:35,260 - root - INFO - Fetched 5 side effect records from CSV for P037
+2025-04-11 14:17:35,260 - root - INFO - Found side effect data in both database and CSV for P037, using database data
+2025-04-11 14:17:35,262 - root - INFO - Retrieved 3 side effect records from database for patient P038
+2025-04-11 14:17:35,264 - root - INFO - Fetched 2 side effect records from CSV for P038
+2025-04-11 14:17:35,264 - root - INFO - Found side effect data in both database and CSV for P038, using database data
+2025-04-11 14:17:35,266 - root - INFO - Retrieved 4 side effect records from database for patient P039
+2025-04-11 14:17:35,267 - root - INFO - Fetched 3 side effect records from CSV for P039
+2025-04-11 14:17:35,268 - root - INFO - Found side effect data in both database and CSV for P039, using database data
+2025-04-11 14:17:35,269 - root - INFO - Retrieved 1 side effect records from database for patient P040
+2025-04-11 14:17:35,272 - root - INFO - Retrieved 5 side effect records from database for patient P041
+2025-04-11 14:17:35,273 - root - INFO - Fetched 3 side effect records from CSV for P041
+2025-04-11 14:17:35,274 - root - INFO - Found side effect data in both database and CSV for P041, using database data
+2025-04-11 14:17:35,275 - root - INFO - Retrieved 3 side effect records from database for patient P042
+2025-04-11 14:17:35,279 - root - INFO - Fetched 3 side effect records from CSV for P042
+2025-04-11 14:17:35,279 - root - INFO - Found side effect data in both database and CSV for P042, using database data
+2025-04-11 14:17:35,281 - root - INFO - Retrieved 4 side effect records from database for patient P043
+2025-04-11 14:17:35,282 - root - INFO - Fetched 4 side effect records from CSV for P043
+2025-04-11 14:17:35,283 - root - INFO - Found side effect data in both database and CSV for P043, using database data
+2025-04-11 14:17:35,284 - root - INFO - Retrieved 5 side effect records from database for patient P044
+2025-04-11 14:17:35,286 - root - INFO - Fetched 5 side effect records from CSV for P044
+2025-04-11 14:17:35,287 - root - INFO - Found side effect data in both database and CSV for P044, using database data
+2025-04-11 14:17:35,288 - root - INFO - Retrieved 8 side effect records from database for patient P045
+2025-04-11 14:17:35,290 - root - INFO - Fetched 6 side effect records from CSV for P045
+2025-04-11 14:17:35,291 - root - INFO - Found side effect data in both database and CSV for P045, using database data
+2025-04-11 14:17:35,293 - root - INFO - Retrieved 6 side effect records from database for patient P046
+2025-04-11 14:17:35,295 - root - INFO - Fetched 6 side effect records from CSV for P046
+2025-04-11 14:17:35,296 - root - INFO - Found side effect data in both database and CSV for P046, using database data
+2025-04-11 14:17:35,298 - root - INFO - Retrieved 6 side effect records from database for patient P047
+2025-04-11 14:17:35,299 - root - INFO - Fetched 6 side effect records from CSV for P047
+2025-04-11 14:17:35,300 - root - INFO - Found side effect data in both database and CSV for P047, using database data
+2025-04-11 14:17:35,301 - root - INFO - Retrieved 4 side effect records from database for patient P048
+2025-04-11 14:17:35,302 - root - INFO - Fetched 2 side effect records from CSV for P048
+2025-04-11 14:17:35,303 - root - INFO - Found side effect data in both database and CSV for P048, using database data
+2025-04-11 14:17:35,305 - root - INFO - Retrieved 6 side effect records from database for patient P049
+2025-04-11 14:17:35,306 - root - INFO - Fetched 6 side effect records from CSV for P049
+2025-04-11 14:17:35,307 - root - INFO - Found side effect data in both database and CSV for P049, using database data
+2025-04-11 14:17:35,309 - root - INFO - Retrieved 3 side effect records from database for patient P050
+2025-04-11 14:17:35,310 - root - INFO - Fetched 3 side effect records from CSV for P050
+2025-04-11 14:17:35,312 - root - INFO - Found side effect data in both database and CSV for P050, using database data
+2025-04-11 14:24:59,368 - root - INFO - Application started
+2025-04-11 14:25:02,553 - root - INFO - Application started
+2025-04-11 14:25:04,204 - root - INFO - Application started
+2025-04-11 14:25:07,494 - root - INFO - Application started
+2025-04-11 14:25:16,453 - root - INFO - Application started
+2025-04-11 14:25:16,614 - root - INFO - Application started
+2025-04-11 14:25:16,679 - root - INFO - Application started
+2025-04-11 14:25:16,682 - root - INFO - CSS styles loaded.
+2025-04-11 14:25:16,755 - root - INFO - Data loaded successfully.
+2025-04-11 14:25:16,756 - root - INFO - Default patient set: P001
+2025-04-11 14:25:16,759 - root - INFO - Routing to page: Vue d'Ensemble
+2025-04-11 14:25:19,519 - root - INFO - Application started
+2025-04-11 14:25:19,533 - root - INFO - CSS styles loaded.
+2025-04-11 14:25:19,662 - root - INFO - Application started
+2025-04-11 14:25:19,672 - root - INFO - CSS styles loaded.
+2025-04-11 14:25:19,676 - root - INFO - Routing to page: Tableau de Bord du Patient
+2025-04-11 14:25:19,879 - root - INFO - Retrieved 9 side effect records from database for patient P001
+2025-04-11 14:25:19,881 - root - INFO - Fetched 9 side effect records from CSV for P001
+2025-04-11 14:25:19,882 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 14:25:29,223 - root - INFO - Application started
+2025-04-11 14:25:29,234 - root - INFO - CSS styles loaded.
+2025-04-11 14:25:29,378 - root - INFO - Application started
+2025-04-11 14:25:29,381 - root - INFO - CSS styles loaded.
+2025-04-11 14:25:29,383 - root - INFO - Routing to page: Plan de Soins et Entrées Infirmières
+2025-04-11 14:25:30,104 - root - INFO - Application started
+2025-04-11 14:25:30,112 - root - INFO - CSS styles loaded.
+2025-04-11 14:25:30,181 - root - INFO - Application started
+2025-04-11 14:25:30,184 - root - INFO - CSS styles loaded.
+2025-04-11 14:25:30,186 - root - INFO - Routing to page: Analyse des Interventions Pharmacologiques
+2025-04-11 14:25:30,326 - root - INFO - Retrieved 9 side effect records from database for patient P001
+2025-04-11 14:25:30,330 - root - INFO - Fetched 9 side effect records from CSV for P001
+2025-04-11 14:25:30,331 - root - INFO - Found side effect data in both database and CSV for P001, using database data
+2025-04-11 14:25:30,332 - root - INFO - Retrieved 6 side effect records from database for patient P002
+2025-04-11 14:25:30,334 - root - INFO - Fetched 5 side effect records from CSV for P002
+2025-04-11 14:25:30,335 - root - INFO - Found side effect data in both database and CSV for P002, using database data
+2025-04-11 14:25:30,336 - root - INFO - Retrieved 15 side effect records from database for patient P003
+2025-04-11 14:25:30,337 - root - INFO - Fetched 12 side effect records from CSV for P003
+2025-04-11 14:25:30,338 - root - INFO - Found side effect data in both database and CSV for P003, using database data
+2025-04-11 14:25:30,342 - root - INFO - Retrieved 2 side effect records from database for patient P004
+2025-04-11 14:25:30,345 - root - INFO - Fetched 2 side effect records from CSV for P004
+2025-04-11 14:25:30,346 - root - INFO - Found side effect data in both database and CSV for P004, using database data
+2025-04-11 14:25:30,348 - root - INFO - Retrieved 5 side effect records from database for patient P005
+2025-04-11 14:25:30,350 - root - INFO - Fetched 5 side effect records from CSV for P005
+2025-04-11 14:25:30,350 - root - INFO - Found side effect data in both database and CSV for P005, using database data
+2025-04-11 14:25:30,352 - root - INFO - Retrieved 5 side effect records from database for patient P006
+2025-04-11 14:25:30,354 - root - INFO - Fetched 4 side effect records from CSV for P006
+2025-04-11 14:25:30,355 - root - INFO - Found side effect data in both database and CSV for P006, using database data
+2025-04-11 14:25:30,356 - root - INFO - Retrieved 4 side effect records from database for patient P007
+2025-04-11 14:25:30,359 - root - INFO - Fetched 4 side effect records from CSV for P007
+2025-04-11 14:25:30,360 - root - INFO - Found side effect data in both database and CSV for P007, using database data
+2025-04-11 14:25:30,362 - root - INFO - Retrieved 7 side effect records from database for patient P008
+2025-04-11 14:25:30,364 - root - INFO - Fetched 6 side effect records from CSV for P008
+2025-04-11 14:25:30,365 - root - INFO - Found side effect data in both database and CSV for P008, using database data
+2025-04-11 14:25:30,366 - root - INFO - Retrieved 1 side effect records from database for patient P009
+2025-04-11 14:25:30,369 - root - INFO - Fetched 1 side effect records from CSV for P009
+2025-04-11 14:25:30,369 - root - INFO - Found side effect data in both database and CSV for P009, using database data
+2025-04-11 14:25:30,371 - root - INFO - Retrieved 3 side effect records from database for patient P010
+2025-04-11 14:25:30,372 - root - INFO - Fetched 2 side effect records from CSV for P010
+2025-04-11 14:25:30,373 - root - INFO - Found side effect data in both database and CSV for P010, using database data
+2025-04-11 14:25:30,376 - root - INFO - Retrieved 6 side effect records from database for patient P011
+2025-04-11 14:25:30,377 - root - INFO - Fetched 5 side effect records from CSV for P011
+2025-04-11 14:25:30,378 - root - INFO - Found side effect data in both database and CSV for P011, using database data
+2025-04-11 14:25:30,379 - root - INFO - Retrieved 3 side effect records from database for patient P012
+2025-04-11 14:25:30,381 - root - INFO - Fetched 3 side effect records from CSV for P012
+2025-04-11 14:25:30,381 - root - INFO - Found side effect data in both database and CSV for P012, using database data
+2025-04-11 14:25:30,383 - root - INFO - Retrieved 6 side effect records from database for patient P013
+2025-04-11 14:25:30,384 - root - INFO - Fetched 6 side effect records from CSV for P013
+2025-04-11 14:25:30,385 - root - INFO - Found side effect data in both database and CSV for P013, using database data
+2025-04-11 14:25:30,386 - root - INFO - Retrieved 3 side effect records from database for patient P014
+2025-04-11 14:25:30,388 - root - INFO - Fetched 3 side effect records from CSV for P014
+2025-04-11 14:25:30,389 - root - INFO - Found side effect data in both database and CSV for P014, using database data
+2025-04-11 14:25:30,391 - root - INFO - Retrieved 5 side effect records from database for patient P015
+2025-04-11 14:25:30,393 - root - INFO - Fetched 5 side effect records from CSV for P015
+2025-04-11 14:25:30,393 - root - INFO - Found side effect data in both database and CSV for P015, using database data
+2025-04-11 14:25:30,395 - root - INFO - Retrieved 7 side effect records from database for patient P016
+2025-04-11 14:25:30,396 - root - INFO - Fetched 7 side effect records from CSV for P016
+2025-04-11 14:25:30,397 - root - INFO - Found side effect data in both database and CSV for P016, using database data
+2025-04-11 14:25:30,398 - root - INFO - Retrieved 3 side effect records from database for patient P017
+2025-04-11 14:25:30,400 - root - INFO - Fetched 2 side effect records from CSV for P017
+2025-04-11 14:25:30,400 - root - INFO - Found side effect data in both database and CSV for P017, using database data
+2025-04-11 14:25:30,402 - root - INFO - Retrieved 3 side effect records from database for patient P018
+2025-04-11 14:25:30,403 - root - INFO - Fetched 3 side effect records from CSV for P018
+2025-04-11 14:25:30,404 - root - INFO - Found side effect data in both database and CSV for P018, using database data
+2025-04-11 14:25:30,405 - root - INFO - Retrieved 2 side effect records from database for patient P019
+2025-04-11 14:25:30,406 - root - INFO - Fetched 2 side effect records from CSV for P019
+2025-04-11 14:25:30,408 - root - INFO - Found side effect data in both database and CSV for P019, using database data
+2025-04-11 14:25:30,410 - root - INFO - Retrieved 4 side effect records from database for patient P020
+2025-04-11 14:25:30,411 - root - INFO - Fetched 4 side effect records from CSV for P020
+2025-04-11 14:25:30,412 - root - INFO - Found side effect data in both database and CSV for P020, using database data
+2025-04-11 14:25:30,413 - root - INFO - Retrieved 6 side effect records from database for patient P021
+2025-04-11 14:25:30,415 - root - INFO - Fetched 5 side effect records from CSV for P021
+2025-04-11 14:25:30,415 - root - INFO - Found side effect data in both database and CSV for P021, using database data
+2025-04-11 14:25:30,417 - root - INFO - Retrieved 6 side effect records from database for patient P022
+2025-04-11 14:25:30,418 - root - INFO - Fetched 4 side effect records from CSV for P022
+2025-04-11 14:25:30,420 - root - INFO - Found side effect data in both database and CSV for P022, using database data
+2025-04-11 14:25:30,425 - root - INFO - Retrieved 4 side effect records from database for patient P023
+2025-04-11 14:25:30,427 - root - INFO - Fetched 4 side effect records from CSV for P023
+2025-04-11 14:25:30,427 - root - INFO - Found side effect data in both database and CSV for P023, using database data
+2025-04-11 14:25:30,429 - root - INFO - Retrieved 5 side effect records from database for patient P024
+2025-04-11 14:25:30,430 - root - INFO - Fetched 5 side effect records from CSV for P024
+2025-04-11 14:25:30,431 - root - INFO - Found side effect data in both database and CSV for P024, using database data
+2025-04-11 14:25:30,433 - root - INFO - Retrieved 5 side effect records from database for patient P025
+2025-04-11 14:25:30,434 - root - INFO - Fetched 4 side effect records from CSV for P025
+2025-04-11 14:25:30,435 - root - INFO - Found side effect data in both database and CSV for P025, using database data
+2025-04-11 14:25:30,436 - root - INFO - Retrieved 6 side effect records from database for patient P026
+2025-04-11 14:25:30,437 - root - INFO - Fetched 5 side effect records from CSV for P026
+2025-04-11 14:25:30,438 - root - INFO - Found side effect data in both database and CSV for P026, using database data
+2025-04-11 14:25:30,442 - root - INFO - Retrieved 8 side effect records from database for patient P027
+2025-04-11 14:25:30,444 - root - INFO - Fetched 7 side effect records from CSV for P027
+2025-04-11 14:25:30,445 - root - INFO - Found side effect data in both database and CSV for P027, using database data
+2025-04-11 14:25:30,447 - root - INFO - Retrieved 7 side effect records from database for patient P028
+2025-04-11 14:25:30,448 - root - INFO - Fetched 6 side effect records from CSV for P028
+2025-04-11 14:25:30,449 - root - INFO - Found side effect data in both database and CSV for P028, using database data
+2025-04-11 14:25:30,450 - root - INFO - Retrieved 3 side effect records from database for patient P029
+2025-04-11 14:25:30,451 - root - INFO - Fetched 3 side effect records from CSV for P029
+2025-04-11 14:25:30,452 - root - INFO - Found side effect data in both database and CSV for P029, using database data
+2025-04-11 14:25:30,453 - root - INFO - Retrieved 6 side effect records from database for patient P030
+2025-04-11 14:25:30,455 - root - INFO - Fetched 5 side effect records from CSV for P030
+2025-04-11 14:25:30,456 - root - INFO - Found side effect data in both database and CSV for P030, using database data
+2025-04-11 14:25:30,458 - root - INFO - Retrieved 9 side effect records from database for patient P031
+2025-04-11 14:25:30,460 - root - INFO - Fetched 9 side effect records from CSV for P031
+2025-04-11 14:25:30,461 - root - INFO - Found side effect data in both database and CSV for P031, using database data
+2025-04-11 14:25:30,462 - root - INFO - Retrieved 6 side effect records from database for patient P032
+2025-04-11 14:25:30,464 - root - INFO - Fetched 5 side effect records from CSV for P032
+2025-04-11 14:25:30,464 - root - INFO - Found side effect data in both database and CSV for P032, using database data
+2025-04-11 14:25:30,466 - root - INFO - Retrieved 3 side effect records from database for patient P033
+2025-04-11 14:25:30,467 - root - INFO - Fetched 3 side effect records from CSV for P033
+2025-04-11 14:25:30,469 - root - INFO - Found side effect data in both database and CSV for P033, using database data
+2025-04-11 14:25:30,470 - root - INFO - Retrieved 4 side effect records from database for patient P034
+2025-04-11 14:25:30,472 - root - INFO - Fetched 4 side effect records from CSV for P034
+2025-04-11 14:25:30,473 - root - INFO - Found side effect data in both database and CSV for P034, using database data
+2025-04-11 14:25:30,475 - root - INFO - Retrieved 6 side effect records from database for patient P035
+2025-04-11 14:25:30,476 - root - INFO - Fetched 5 side effect records from CSV for P035
+2025-04-11 14:25:30,477 - root - INFO - Found side effect data in both database and CSV for P035, using database data
+2025-04-11 14:25:30,478 - root - INFO - Retrieved 5 side effect records from database for patient P036
+2025-04-11 14:25:30,479 - root - INFO - Fetched 5 side effect records from CSV for P036
+2025-04-11 14:25:30,480 - root - INFO - Found side effect data in both database and CSV for P036, using database data
+2025-04-11 14:25:30,482 - root - INFO - Retrieved 6 side effect records from database for patient P037
+2025-04-11 14:25:30,483 - root - INFO - Fetched 5 side effect records from CSV for P037
+2025-04-11 14:25:30,483 - root - INFO - Found side effect data in both database and CSV for P037, using database data
+2025-04-11 14:25:30,485 - root - INFO - Retrieved 3 side effect records from database for patient P038
+2025-04-11 14:25:30,485 - root - INFO - Fetched 2 side effect records from CSV for P038
+2025-04-11 14:25:30,486 - root - INFO - Found side effect data in both database and CSV for P038, using database data
+2025-04-11 14:25:30,487 - root - INFO - Retrieved 4 side effect records from database for patient P039
+2025-04-11 14:25:30,489 - root - INFO - Fetched 3 side effect records from CSV for P039
+2025-04-11 14:25:30,490 - root - INFO - Found side effect data in both database and CSV for P039, using database data
+2025-04-11 14:25:30,492 - root - INFO - Retrieved 1 side effect records from database for patient P040
+2025-04-11 14:25:30,495 - root - INFO - Retrieved 5 side effect records from database for patient P041
+2025-04-11 14:25:30,496 - root - INFO - Fetched 3 side effect records from CSV for P041
+2025-04-11 14:25:30,497 - root - INFO - Found side effect data in both database and CSV for P041, using database data
+2025-04-11 14:25:30,498 - root - INFO - Retrieved 3 side effect records from database for patient P042
+2025-04-11 14:25:30,499 - root - INFO - Fetched 3 side effect records from CSV for P042
+2025-04-11 14:25:30,500 - root - INFO - Found side effect data in both database and CSV for P042, using database data
+2025-04-11 14:25:30,501 - root - INFO - Retrieved 4 side effect records from database for patient P043
+2025-04-11 14:25:30,502 - root - INFO - Fetched 4 side effect records from CSV for P043
+2025-04-11 14:25:30,503 - root - INFO - Found side effect data in both database and CSV for P043, using database data
+2025-04-11 14:25:30,504 - root - INFO - Retrieved 5 side effect records from database for patient P044
+2025-04-11 14:25:30,506 - root - INFO - Fetched 5 side effect records from CSV for P044
+2025-04-11 14:25:30,507 - root - INFO - Found side effect data in both database and CSV for P044, using database data
+2025-04-11 14:25:30,509 - root - INFO - Retrieved 8 side effect records from database for patient P045
+2025-04-11 14:25:30,510 - root - INFO - Fetched 6 side effect records from CSV for P045
+2025-04-11 14:25:30,511 - root - INFO - Found side effect data in both database and CSV for P045, using database data
+2025-04-11 14:25:30,513 - root - INFO - Retrieved 6 side effect records from database for patient P046
+2025-04-11 14:25:30,514 - root - INFO - Fetched 6 side effect records from CSV for P046
+2025-04-11 14:25:30,514 - root - INFO - Found side effect data in both database and CSV for P046, using database data
+2025-04-11 14:25:30,515 - root - INFO - Retrieved 6 side effect records from database for patient P047
+2025-04-11 14:25:30,516 - root - INFO - Fetched 6 side effect records from CSV for P047
+2025-04-11 14:25:30,517 - root - INFO - Found side effect data in both database and CSV for P047, using database data
+2025-04-11 14:25:30,519 - root - INFO - Retrieved 4 side effect records from database for patient P048
+2025-04-11 14:25:30,520 - root - INFO - Fetched 2 side effect records from CSV for P048
+2025-04-11 14:25:30,521 - root - INFO - Found side effect data in both database and CSV for P048, using database data
+2025-04-11 14:25:30,523 - root - INFO - Retrieved 6 side effect records from database for patient P049
+2025-04-11 14:25:30,525 - root - INFO - Fetched 6 side effect records from CSV for P049
+2025-04-11 14:25:30,526 - root - INFO - Found side effect data in both database and CSV for P049, using database data
+2025-04-11 14:25:30,527 - root - INFO - Retrieved 3 side effect records from database for patient P050
+2025-04-11 14:25:30,529 - root - INFO - Fetched 3 side effect records from CSV for P050
+2025-04-11 14:25:30,529 - root - INFO - Found side effect data in both database and CSV for P050, using database data

@@ -1,0 +1,38 @@
+
+paths:
+  patient_data_with_protocol: "data/patient_data_with_protocol_simulated.csv"
+  patient_data: "data/patient_data_simulated.csv"
+  simulated_ema_data: "data/simulated_ema_data.csv"
+mappings:
+  panss_positive_items:
+    P1: Délires
+    P2: Désorganisation Conceptuelle
+    P3: Hallucinations
+    P4: Excitation
+    P5: Idées de grandeur
+    P6: Méfiance/Persécution
+    P7: Hostilité
+  panss_negative_items:
+    N1: Affect Émoussé
+    N2: Retrait Émotionnel
+    N3: Mauvais Rapport
+    N4: Retrait Social Passif
+    N5: Difficultés d'Abstraction
+    N6: Fluidité de Conversation
+    N7: Pensée Stéréotypée
+  cgi_severity:
+    1: Normal
+    2: À la limite
+    3: Légèrement malade
+    4: Modérément malade
+    5: Manifestement malade
+    6: Gravement malade
+    7: Parmi les plus malades
+  cgi_improvement:
+    1: Très fortement amélioré
+    2: Fortement amélioré
+    3: Légèrement amélioré
+    4: Pas de changement
+    5: Légèrement aggravé
+    6: Fortement aggravé
+    7: Très fortement aggravé
